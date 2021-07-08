@@ -1,0 +1,63 @@
+body {
+    background-color: #ebd2ac;
+    font-family: "Nunito", sans-serif;
+}
+
+#main .navbar-brand{
+    color: #402218;
+    font-size: 2.5rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: bolder;
+}
+
+#main {
+    font-size:1.5rem;
+    font-weight: bold;
+}
+
+#main .nav-link {
+    color: white;
+}
+
+#main .nav-link:hover {
+    color: #4A3933;
+}
+#design span{
+    font-size: 2rem !important;
+    font-weight: 600 !important;
+    color: #402218;
+}
+#cafe h2{
+    font-family: "Raleway", sans-serif;
+    font-size: 2rem;
+    font-weight: 200;
+    color: #865439;
+}
+.para h2 {
+     color: #402218;
+     font-size: 2rem;
+ }
+
+ .para p {
+     color: #865439;
+     font-weight: 200;
+     font-size: 1.25rem;
+     line-height: 2;
+ }
+
+ .space {
+     margin-top: 60px;
+     margin-bottom: 50px;
+ }
+
+.navbar.scrolled {
+    background-color: #0F0F0F;
+    transition: background 500ms;
+}
+
+@media (max-width: 1100px) {
+    #cafe span{
+        font-size: 1rem;
+    }
+}
+
