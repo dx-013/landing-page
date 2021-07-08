@@ -1,2 +1,2 @@
 # landingpage
-A basic responsive landing page (bootstrap).
+Basic responsive landing page (bootstrap).
